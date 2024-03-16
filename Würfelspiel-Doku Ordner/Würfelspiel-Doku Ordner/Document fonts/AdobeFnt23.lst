@@ -1,0 +1,27 @@
+%!Adobe-FontList 1.23
+%Locale:0x407
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ComicSansMS
+FamilyName:Comic Sans MS
+StyleName:Regular
+FullName:Comic Sans MS
+MenuName:Comic Sans MS
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\mille\Documents\Sync\Food-Praxisprojekte\Dokumentation\Würfelspiel-Doku Ordner\Würfelspiel-Doku Ordner\Document fonts\comic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:245600
+FileModTime:1651897158
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Comic Sans MS
+NameArray:0,Win,1,Comic Sans MS
+%EndFont
+
