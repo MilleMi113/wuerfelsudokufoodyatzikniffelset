@@ -1,0 +1,28 @@
+{
+"Prompt": "topshot, light blue plate on wooden table",
+"Negative Prompt": "knife, fork, spoon, cutlery, leaves, leaf, greens, pumpkin, onion, garlic",
+"Styles": "['Fooocus V2', 'Fooocus Enhance', 'Fooocus Sharp']",
+"Fooocus V2 Dynamic Prompt Expansion": "topshot, light blue plate on wooden table, beautiful detailed, professional, cinematic, artistic, true colors, dramatic, romantic, scenic, elegant, intricate, amazing detail, intense, creative, positive, pure, color, rational, peaceful, attractive, shiny, pretty, fine, awesome, colorful, lovely, symmetry, perfect, best, epic, hopeful, cosmic",
+"Complete Positive Prompt (Prompt+FoocusV2+Styles)": [
+"cinematic still topshot, light blue plate on wooden table . emotional, harmonious, vignette, 4k epic detailed, shot on kodak, 35mm photo, sharp focus, high budget, cinemascope, moody, epic, gorgeous, film grain, grainy",
+"topshot, light blue plate on wooden table, beautiful detailed, professional, cinematic, artistic, true colors, dramatic, romantic, scenic, elegant, intricate, amazing detail, intense, creative, positive, pure, color, rational, peaceful, attractive, shiny, pretty, fine, awesome, colorful, lovely, symmetry, perfect, best, epic, hopeful, cosmic"
+],
+"Complete Negative Prompt (Prompt+FoocusV2+Styles)": [
+"(worst quality, low quality, normal quality, lowres, low details, oversaturated, undersaturated, overexposed, underexposed, grayscale, bw, bad photo, bad photography, bad art:1.4), (watermark, signature, text font, username, error, logo, words, letters, digits, autograph, trademark, name:1.2), (blur, blurry, grainy), morbid, ugly, asymmetrical, mutated malformed, mutilated, poorly lit, bad shadow, draft, cropped, out of frame, cut off, censored, jpeg artifacts, out of focus, glitch, duplicate, (airbrushed, cartoon, anime, semi-realistic, cgi, render, blender, digital art, manga, amateur:1.3), (3D ,3D Game, 3D Game Scene, 3D Character:1.1), (bad hands, bad anatomy, bad body, bad face, bad teeth, bad arms, bad legs, deformities:1.3)",
+"anime, cartoon, graphic, (blur, blurry, bokeh), text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured",
+"knife, fork, spoon, cutlery, leaves, leaf, greens, pumpkin, onion, garlic"
+],
+"Performance": "Speed",
+"Resolution": "(1024, 1024)",
+"Sharpness": 2,
+"Guidance Scale": 4,
+"ADM Guidance": "(1.5, 0.8, 0.3)",
+"Base Model": "juggernautXL_version6Rundiffusion.safetensors",
+"Refiner Model": "None",
+"Refiner Switch": 0.5,
+"Sampler": "dpmpp_2m_sde_gpu",
+"Scheduler": "karras",
+"Seed": 6779068603765685080,
+"LoRA 1": "sd_xl_offset_example-lora_1.0.safetensors : 0.1",
+"Version": "v2.1.854"
+}
