@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="282.48mm" height="265.25mm" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800.74 751.89">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #18365e;
+        font-family: KiwiMaru-Regular, 'Kiwi Maru';
+        font-size: 24px;
+      }
+
+      .cls-2 {
+        letter-spacing: .14em;
+      }
+
+      .cls-3 {
+        letter-spacing: 1.25em;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #1d71b8;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+
+      .cls-5 {
+        letter-spacing: .77em;
+      }
+
+      .cls-6 {
+        letter-spacing: 1.14em;
+      }
+
+      .cls-7 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+
+      .cls-8 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-9 {
+        letter-spacing: .35em;
+      }
+    </style>
+  </defs>
+  <g id="Raster">
+    <line class="cls-4" x1="194.24" y1="36.23" x2="194.24" y2="751.89"/>
+    <line class="cls-4" x1="760.7" y1="36.23" x2="760.7" y2="751.89"/>
+    <line class="cls-4" x1="80.9" y1="36.23" x2="80.9" y2="751.89"/>
+    <line class="cls-4" x1="307.56" y1="36.23" x2="307.56" y2="751.89"/>
+    <line class="cls-4" x1="420.65" y1="36.23" x2="420.65" y2="751.89"/>
+    <line class="cls-4" x1="534.29" y1="36.23" x2="534.29" y2="751.89"/>
+    <line class="cls-4" x1="647.93" y1="36.23" x2="647.93" y2="751.89"/>
+    <line class="cls-4" x1="71.06" y1="165.48" x2="772.84" y2="165.48"/>
+    <line class="cls-4" x1="71.06" y1="51.16" x2="772.84" y2="51.16"/>
+    <line class="cls-4" x1="71.06" y1="731.82" x2="772.84" y2="731.82"/>
+    <line class="cls-4" x1="70.19" y1="278.25" x2="771.98" y2="278.25"/>
+    <line class="cls-4" x1="70.19" y1="391.31" x2="771.98" y2="391.31"/>
+    <line class="cls-4" x1="70.19" y1="504.52" x2="771.98" y2="504.52"/>
+    <line class="cls-4" x1="70.19" y1="617.51" x2="771.98" y2="617.51"/>
+    <path class="cls-7" d="M53.26,114.99c.31,0,.58.11.79.32.21.2.32.46.32.79s-.12.6-.37.82c-.23.21-.51.31-.84.3-.94-.1-1.69-.15-2.25-.15-.61,0-1.36.05-2.25.15-.33.02-.61-.08-.84-.3-.23-.21-.35-.49-.35-.82s.1-.59.3-.79c.21-.21.48-.32.79-.32.15,0,.31,0,.47.02.18.02.36.04.52.07.2,0,.26-.08.17-.25l-1.16-2.6c-.05-.12-.13-.17-.25-.17h-8.57c-.1,0-.18.06-.25.17l-1.16,2.6s-.02.07-.02.1c0,.1.07.15.2.15.18-.03.36-.06.52-.07.17-.02.32-.02.47-.02.31,0,.57.11.77.32.21.2.32.46.32.79s-.12.6-.35.82c-.23.21-.51.31-.84.3-.96-.1-1.71-.15-2.25-.15-.63,0-1.38.05-2.25.15-.33.02-.62-.08-.87-.3-.23-.21-.35-.49-.35-.82s.11-.59.32-.79c.21-.21.48-.32.79-.32.17,0,.32,0,.47.02.15.02.3.03.45.05h.05c.08,0,.16-.05.22-.15l7.18-15.98c.17-.38.45-.57.87-.57s.68.19.84.57l7.23,15.98c.07.1.14.15.22.15.17,0,.32,0,.47-.02.17-.03.32-.05.47-.05ZM44.17,102.48c-.02-.1-.07-.15-.15-.15-.05,0-.1.05-.15.15l-3.24,7.23s-.02.07-.02.1c0,.12.07.17.2.17h6.44c.2,0,.26-.09.17-.27l-3.24-7.23Z"/>
+    <image width="698" height="735" transform="translate(11.46 74.3) scale(.09)" xlink:href="Würfel/Würfelseite/Würfelseite/A.png"/>
+    <image width="945" height="945" transform="translate(10.19 189.18) scale(.07)" xlink:href="Würfel/Würfelseite/Würfelseite/B.png"/>
+    <image width="945" height="945" transform="translate(3.45 291.38) scale(.08)" xlink:href="Würfel/Würfelseite/Würfelseite/C.png"/>
+    <image width="945" height="945" transform="translate(6.7 413.26) scale(.07)" xlink:href="Würfel/Würfelseite/Würfelseite/6.png"/>
+    <image width="945" height="945" transform="translate(0 521.93) scale(.09)" xlink:href="Würfel/Würfelseite/Würfelseite/E.png"/>
+    <image width="945" height="945" transform="translate(3.55 643.46) scale(.08)" xlink:href="Würfel/Würfelseite/Würfelseite/F.png"/>
+    <text class="cls-1" transform="translate(129.98 21.12)"><tspan x="0" y="0">1</tspan><tspan class="cls-5" x="11.59" y="0">	</tspan><tspan class="cls-3" x="36" y="0" xml:space="preserve">		</tspan><tspan x="108" y="0" xml:space="preserve"> 2</tspan><tspan class="cls-9" x="129.53" y="0">	</tspan><tspan class="cls-3" x="144" y="0" xml:space="preserve">		</tspan><tspan x="216" y="0" xml:space="preserve">  3</tspan><tspan class="cls-2" x="242.54" y="0">	</tspan><tspan class="cls-3" x="252" y="0" xml:space="preserve">		</tspan><tspan x="324" y="0" xml:space="preserve">   4</tspan><tspan class="cls-8" x="356.21" y="0">	</tspan><tspan class="cls-3" x="360" y="0" xml:space="preserve">		</tspan><tspan x="432" y="0" xml:space="preserve">    5</tspan><tspan class="cls-6" x="470.64" y="0">	</tspan><tspan class="cls-3" x="504" y="0">	</tspan><tspan x="540" y="0" xml:space="preserve">     6</tspan></text>
+  </g>
+  <g id="Ebene_2" data-name="Ebene 2">
+    <image width="700" height="700" transform="translate(117.86 540.6) rotate(-24.41) scale(.08)" xlink:href="Food-Icons/Grünkohl-noun-lettuce-4603163.png"/>
+    <image width="700" height="700" transform="translate(91.74 288.56) scale(.12)" xlink:href="Food-Icons/gurke-noun-cucumber-4603162.png"/>
+    <image width="700" height="700" transform="translate(378.38 182.27) scale(.04)" xlink:href="Food-Icons/johannisbeere-noun-currant-1510149.png"/>
+    <image width="700" height="700" transform="translate(434.99 44.49) scale(.1)" xlink:href="Food-Icons/karotte-noun-carrot-4603171.png"/>
+    <image width="700" height="700" transform="translate(213.33 58.37) scale(.1)" xlink:href="Food-Icons/lauch-noun-spring-onion-3184804.png"/>
+    <image width="700" height="700" transform="translate(701.71 526.35) scale(.09)" xlink:href="Food-Icons/mangold-noun-chard-4371107.png"/>
+    <image width="700" height="700" transform="translate(194.36 171.93) rotate(-12.2) scale(.06)" xlink:href="Food-Icons/noun-apple-4078445.png"/>
+    <image width="700" height="700" transform="translate(489.64 526.65) rotate(13.93) scale(.08)" xlink:href="Food-Icons/noun-arugula-4371086.png"/>
+    <image width="700" height="700" transform="translate(439.73 406.64) scale(.05)" xlink:href="Food-Icons/noun-banana-1237792.png"/>
+    <image width="700" height="700" transform="translate(265.6 637.31) rotate(25.81) scale(.09)" xlink:href="Food-Icons/noun-barberry-619546.png"/>
+    <image width="700" height="700" transform="translate(351.25 221.41) scale(.04)" xlink:href="Food-Icons/noun-blackberry-2023276.png"/>
+    <image width="700" height="700" transform="translate(328.53 181.09) scale(.02)" xlink:href="Food-Icons/noun-blueberries-2023284.png"/>
+    <image width="700" height="700" transform="translate(91.47 517.67) scale(.04)" xlink:href="Food-Icons/noun-cabbage-4504761.png"/>
+    <image width="700" height="700" transform="translate(332.33 422.34) rotate(-20.99) scale(.07)" xlink:href="Food-Icons/noun-carambola-3413059.png"/>
+    <image width="700" height="700" transform="translate(565.95 61.82) scale(.05)" xlink:href="Food-Icons/noun-carrot-1238436.png"/>
+    <image width="700" height="700" transform="translate(597.04 81.05) scale(.05)" xlink:href="Food-Icons/noun-celery-1048325.png"/>
+    <image width="700" height="700" transform="translate(188.17 508.56) scale(.11)" xlink:href="Food-Icons/noun-celery-1335466.png"/>
+    <image width="700" height="700" transform="translate(214.63 624.57) rotate(6.05) scale(.06)" xlink:href="Food-Icons/noun-cherry-4372020.png"/>
+    <image width="700" height="700" transform="translate(546.87 66.16) scale(.04)" xlink:href="Food-Icons/schwarzwurzel-noun-burdock-root-4784065.png"/>
+    <image width="700" height="700" transform="translate(649.06 532.79) rotate(-48.07) scale(.07)" xlink:href="Food-Icons/spargel-noun-asparagus-4780525.png"/>
+    <image width="700" height="700" transform="translate(112.77 551.73) rotate(11.33) scale(.06)" xlink:href="Food-Icons/spinat-noun-spinach-4603147.png"/>
+    <image width="700" height="700" transform="translate(415.11 494.2) rotate(6.54) scale(.11)" xlink:href="Food-Icons/salat-noun-lettuce-356891.png"/>
+    <image width="700" height="700" transform="translate(477.04 79.6) scale(.08)" xlink:href="Food-Icons/rote bete-noun-beetroot-4500067.png"/>
+    <image width="700" height="700" transform="translate(305.55 85.32) rotate(-55.57) scale(.07)" xlink:href="Food-Icons/rettich-noun-radish-3184808.png"/>
+    <image width="700" height="700" transform="translate(63.68 91.88) rotate(-51.4) scale(.14)" xlink:href="Food-Icons/radieschen-noun-radishes-356901.png"/>
+    <image width="700" height="700" transform="translate(349.19 90.39) rotate(-29.69) scale(.1)" xlink:href="Food-Icons/pastinake-noun-carrot-4603174.png"/>
+    <image width="700" height="700" transform="translate(435.7 294.48) rotate(-20.23) scale(.1)" xlink:href="Food-Icons/noun-zucchini-4500054.png"/>
+    <image width="700" height="700" transform="translate(714.72 649.53) scale(.06)" xlink:href="Food-Icons/noun-watermelon-2023275.png"/>
+    <image width="700" height="700" transform="translate(216.8 282.59) scale(.1)" xlink:href="Food-Icons/noun-tomato-1365113.png"/>
+    <image width="700" height="700" transform="translate(377.28 656.47) scale(.05)" xlink:href="Food-Icons/noun-tangerine-1237843.png"/>
+    <image width="700" height="700" transform="translate(434.78 187.25) rotate(-25.81) scale(.04)" xlink:href="Food-Icons/noun-strawberries-2023266.png"/>
+    <image width="700" height="700" transform="translate(325.06 510.76) rotate(11) scale(.06)" xlink:href="Food-Icons/noun-red-onion-4371080.png"/>
+    <image width="700" height="700" transform="translate(93.54 184.67) rotate(-10.17) scale(.04)" xlink:href="Food-Icons/noun-raspberries-2023272.png"/>
+    <image width="700" height="700" transform="translate(362.53 535.89) scale(.08)" xlink:href="Food-Icons/noun-radicchio-4371078.png"/>
+    <image width="700" height="700" transform="translate(253.23 177.63) scale(.06)" xlink:href="Food-Icons/noun-quince-1320538.png"/>
+    <image width="700" height="700" transform="translate(341.71 286.93) scale(.08)" xlink:href="Food-Icons/noun-pumpkin-2023270.png"/>
+    <image width="700" height="700" transform="translate(716.46 206.25) scale(.04)" xlink:href="Food-Icons/noun-plum-4371723.png"/>
+    <image width="700" height="700" transform="translate(654.71 185.39) rotate(-30.17) scale(.06)" xlink:href="Food-Icons/noun-plum-235577.png"/>
+    <image width="700" height="700" transform="translate(117.42 392.05) rotate(18.29) scale(.09)" xlink:href="Food-Icons/noun-pineapple-2878426.png"/>
+    <image width="700" height="700" transform="translate(670.48 291.26) scale(.08)" xlink:href="Food-Icons/noun-pepper-4780523.png"/>
+    <image width="700" height="700" transform="translate(550.93 290.01) rotate(11.01) scale(.05)" xlink:href="Food-Icons/noun-peas-2007525.png"/>
+    <image width="700" height="700" transform="translate(220.07 218.06) rotate(-2.59) scale(.06)" xlink:href="Food-Icons/noun-pear-4084133.png"/>
+    <image width="700" height="700" transform="translate(127.45 631.31) scale(.07)" xlink:href="Food-Icons/noun-peach-4371696.png"/>
+    <image width="700" height="700" transform="translate(613.05 184.85) rotate(35.65) scale(.07)" xlink:href="Food-Icons/noun-peach-1159547.png"/>
+    <image width="700" height="700" transform="translate(712.99 423.12) scale(.05)" xlink:href="Food-Icons/noun-papaya-2023271.png"/>
+    <image width="700" height="700" transform="translate(255.91 550.03) rotate(-14.1) scale(.06)" xlink:href="Food-Icons/noun-onion-3392912.png"/>
+    <image width="700" height="700" transform="translate(499.98 421.58) rotate(36.58) scale(.05)" xlink:href="Food-Icons/noun-mango-5013544.png"/>
+    <image width="700" height="700" transform="translate(582 418.78) scale(.04)" xlink:href="Food-Icons/noun-lychee-5011491.png"/>
+    <image width="700" height="700" transform="translate(260.17 429.19) scale(.05)" xlink:href="Food-Icons/noun-lime-2023360.png"/>
+    <image width="700" height="700" transform="translate(317.03 639.16) rotate(-14.48) scale(.06)" xlink:href="Food-Icons/noun-lemon-4371828.png"/>
+    <image width="700" height="700" transform="translate(712.37 79.54) rotate(12.14) scale(.07)" xlink:href="Food-Icons/noun-kohlrabi-706154.png"/>
+    <image width="700" height="700" transform="translate(455.03 640.35) rotate(11.78) scale(.06)" xlink:href="Food-Icons/noun-kiwi-2945479.png"/>
+    <image width="700" height="700" transform="translate(657.47 408.37) scale(.05)" xlink:href="Food-Icons/noun-guava-4084130.png"/>
+    <image width="700" height="700" transform="translate(604.55 315.55) scale(.04)" xlink:href="Food-Icons/noun-green-beans-1530360.png"/>
+    <image width="700" height="700" transform="translate(529.58 649.53) rotate(-45) scale(.07)" xlink:href="Food-Icons/noun-grapes-409760.png"/>
+    <image width="700" height="700" transform="translate(555.12 189.79) rotate(-32.24) scale(.04)" xlink:href="Food-Icons/noun-gooseberry-5013513.png"/>
+    <image width="700" height="700" transform="translate(653.92 631.76) rotate(-14) scale(.06)" xlink:href="Food-Icons/noun-garnet-5013550.png"/>
+    <image width="700" height="700" transform="translate(609.2 640.4) rotate(25.96) scale(.07)" xlink:href="Food-Icons/noun-fig-1159546.png"/>
+    <image width="700" height="700" transform="translate(152.6 188.9) scale(.03)" xlink:href="Food-Icons/noun-currant-4371722.png"/>
+    <image width="700" height="700" transform="translate(494.39 204.52) scale(.03)" xlink:href="Food-Icons/noun-cherry-2023290.png"/>
+    <image width="700" height="700" transform="translate(565.52 513.34) scale(.08)" xlink:href="Food-Icons/Reservebank/kohl-noun-cabbage-4371106.png"/>
+    <image width="700" height="700" transform="translate(648.61 49.7) scale(.1)" xlink:href="Food-Icons/fenchel-noun-fennel-4500071.png"/>
+  </g>
+</svg>

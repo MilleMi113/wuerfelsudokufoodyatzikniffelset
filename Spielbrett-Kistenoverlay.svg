@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Saison-Overlay" xmlns="http://www.w3.org/2000/svg" width="282.48mm" height="265.25mm" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800.74 751.89">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-2 {
+        fill: #432a19;
+        font-family: KiwiMaru-Regular, 'Kiwi Maru';
+        font-size: 24px;
+      }
+    </style>
+    <image id="image" width="152" height="152" xlink:href="Food-Icons/Kisten/Kistenstapel 3a-1.png"/>
+    <image id="image-2" width="152" height="152" xlink:href="Food-Icons/Kisten/Kistenstapel 3-3.png"/>
+    <image id="image-3" width="152" height="152" xlink:href="Food-Icons/Kisten/Kistenstapel 1b.png"/>
+    <image id="image-4" width="152" height="152" xlink:href="Food-Icons/Kisten/Kistenstapel 3-0-2.png"/>
+    <image id="image-5" width="152" height="152" xlink:href="Food-Icons/Kisten/Kistenstapel 1-3.png"/>
+    <image id="image-6" width="152" height="152" xlink:href="Food-Icons/Kisten/Kistenstapel 1a.png"/>
+    <image id="image-7" width="152" height="152" xlink:href="Food-Icons/Kisten/Kistenstapel 1-0.png"/>
+    <image id="image-8" width="152" height="152" xlink:href="Food-Icons/Kisten/Kistenstapel 3a.png"/>
+    <image id="image-9" width="152" height="152" xlink:href="Food-Icons/Kisten/Kistenstapel 0-2.png"/>
+    <image id="image-10" width="152" height="152" xlink:href="Food-Icons/Kisten/Kistenstapel 3b.png"/>
+    <image id="image-11" width="152" height="152" xlink:href="Food-Icons/Kisten/Kistenstapel 1-1.png"/>
+  </defs>
+  <use transform="translate(76.41 52.18) scale(.73)" xlink:href="#image"/>
+  <use transform="translate(192.86 277.5) scale(.73)" xlink:href="#image"/>
+  <use transform="translate(194.13 53.45) scale(.72)" xlink:href="#image-8"/>
+  <image width="152" height="152" transform="translate(309.32 50.92) scale(.72)" xlink:href="Food-Icons/Kisten/Kistenstapel 2-1.png"/>
+  <image width="152" height="152" transform="translate(421.97 49.65) scale(.74)" xlink:href="Food-Icons/Kisten/Kistenstapel 3-2.png"/>
+  <image width="152" height="152" transform="translate(535.9 50.92) scale(.72)" xlink:href="Food-Icons/Kisten/Kistenstapel 0-3.png"/>
+  <image width="152" height="152" transform="translate(648.56 53.45) scale(.73)" xlink:href="Food-Icons/Kisten/Kistenstapel 1-2.png"/>
+  <use transform="translate(77.67 164.84) scale(.73)" xlink:href="#image-7"/>
+  <use transform="translate(194.13 164.84) scale(.74)" xlink:href="#image-4"/>
+  <image width="152" height="152" transform="translate(310.58 164.84) scale(.73)" xlink:href="Food-Icons/Kisten/Kistenstapel 1-0-0.png"/>
+  <use transform="translate(419.44 163.57) scale(.76)" xlink:href="#image-5"/>
+  <use transform="translate(535.9 162.31) scale(.74)" xlink:href="#image-11"/>
+  <use transform="translate(648.56 164.84) scale(.74)" xlink:href="#image-7"/>
+  <use transform="translate(80.2 280.03) scale(.73)" xlink:href="#image-10"/>
+  <use transform="translate(308.05 280.03) scale(.74)" xlink:href="#image-6"/>
+  <use transform="translate(420.71 277.5) scale(.75)" xlink:href="#image-10"/>
+  <use transform="translate(535.9 277.5) scale(.74)" xlink:href="#image-2"/>
+  <use transform="translate(649.82 277.5) scale(.73)" xlink:href="#image-8"/>
+  <use transform="translate(80.2 391.42) scale(.75)" xlink:href="#image-3"/>
+  <use transform="translate(194.13 392.69) scale(.74)" xlink:href="#image-9"/>
+  <image width="152" height="152" transform="translate(420.71 391.42) scale(.75)" xlink:href="Food-Icons/Kisten/Kistenstapel 3-1.png"/>
+  <use transform="translate(535.9 396.49) scale(.72)" xlink:href="#image-6"/>
+  <image width="152" height="152" transform="translate(644.79 390.85) scale(.74)" xlink:href="Food-Icons/Kisten/Kistenstapel 0-1.png"/>
+  <use transform="translate(644.76 504.08) scale(.77)" xlink:href="#image-9"/>
+  <image width="152" height="152" transform="translate(534.63 504.08) scale(.74)" xlink:href="Food-Icons/Kisten/Kistenstapel 2a.png"/>
+  <use transform="translate(421.97 504.08) scale(.75)" xlink:href="#image-2"/>
+  <image width="152" height="152" transform="translate(306.78 505.35) scale(.75)" xlink:href="Food-Icons/Kisten/Kistenstapel 2-3.png"/>
+  <use transform="translate(194.13 505.35) scale(.75)" xlink:href="#image-5"/>
+  <use transform="translate(81.47 507.88) scale(.73)" xlink:href="#image-4"/>
+  <use transform="translate(78.94 620.54) scale(.76)" xlink:href="#image"/>
+  <image width="152" height="152" transform="translate(195.39 618) scale(.74)" xlink:href="Food-Icons/Kisten/Kistenstapel 3-0.png"/>
+  <image width="152" height="152" transform="translate(308.08 619.78) scale(.74)" xlink:href="Food-Icons/Kisten/Kistenstapel 2-0.png"/>
+  <use transform="translate(419.44 618) scale(.75)" xlink:href="#image-3"/>
+  <use transform="translate(534.63 616.74) scale(.74)" xlink:href="#image-11"/>
+  <use transform="translate(646.03 616.74) scale(.76)" xlink:href="#image-5"/>
+  <text class="cls-2" transform="translate(794.52 729.82) rotate(-90)"><tspan x="0" y="0">Somm</tspan><tspan class="cls-1" x="77.28" y="0">e</tspan><tspan x="90.67" y="0">r</tspan></text>
+</svg>
